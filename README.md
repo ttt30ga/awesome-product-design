@@ -5,24 +5,24 @@ This is a collection of bookmarks intended to help guide product designers.
 ## Research
 * [Product Talk](https://www.producttalk.org/) Make better product decisions
 * [Cognitive Lode](http://coglode.com/) Brain gems for decision-makers
-  #### Methods
-  * [NN Group](https://www.nngroup.com/articles/which-ux-research-methods/) When to Use Which User-Experience Research Methods
-  * [Design Research Techniques](http://designresearchtechniques.com/#/) Online repository and evolving resource for Participatory Design Techniques
-  #### Tools
-  * [The Rainbow Spreadsheet](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) A Collaborative Lean UX Research Tool
+#### Methods
+* [NN Group](https://www.nngroup.com/articles/which-ux-research-methods/) When to Use Which User-Experience Research Methods
+* [Design Research Techniques](http://designresearchtechniques.com/#/) Online repository and evolving resource for Participatory Design Techniques
+#### Tools
+* [The Rainbow Spreadsheet](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) A Collaborative Lean UX Research Tool
 
 ## UX
 * [The UX Bookmark](http://www.theuxbookmark.com/) A collection of the best UX websites from across the globe
 * [Gov.Uk](https://www.gov.uk/service-manual/) Helping government teams create and run great digital services
 * [Usability.Gov](https://www.usability.gov/) Improving the User Experience
-  #### Methods
-  * [Medial Lab Amsterdam](http://medialabamsterdam.com/toolkit/) Design method toolkit
-  * [Design Kit IDEO](http://www.designkit.org/methods) A step-by-step guide to unleashing your creativity
-  * [Gamestorming](http://gamestorming.com/) Gamestorming is a set of co-creation tools used by innovators around the world
-  #### Tools
-  * [UX Recipe](http://uxrecipe.github.io/) This project is a personal manifesto against the objectification of the term "UX"
-  * [UX Checklist](http://uxchecklist.github.io/) UX Project Checklist
-  * [UX Stackexchange](https://ux.stackexchange.com/) UX Stack Exchange is a question and answer site  
+#### Methods
+* [Medial Lab Amsterdam](http://medialabamsterdam.com/toolkit/) Design method toolkit
+* [Design Kit IDEO](http://www.designkit.org/methods) A step-by-step guide to unleashing your creativity
+* [Gamestorming](http://gamestorming.com/) Gamestorming is a set of co-creation tools used by innovators around the world
+#### Tools
+* [UX Recipe](http://uxrecipe.github.io/) This project is a personal manifesto against the objectification of the term "UX"
+* [UX Checklist](http://uxchecklist.github.io/) UX Project Checklist
+* [UX Stackexchange](https://ux.stackexchange.com/) UX Stack Exchange is a question and answer site  
 
 ## UI
 * [iOS Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
@@ -41,18 +41,18 @@ This is a collection of bookmarks intended to help guide product designers.
 ## Brand
 
 ## Accessibility
-  #### Reading
-  * [Gov.Uk](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) Making your service accessible: an introduction
-  * [Smashing Magazine](https://www.smashingmagazine.com/2014/10/color-contrast-tips-and-tools-for-accessibility/) Color Contrast And Why You Should Rethink It
-  * [Medium](https://medium.com/@GarronEngstrom/accessibility-101-56f87f3d726e) Accessibility for designers. Mind your RGB’s
-  * [Web Credible](https://www.webcredible.com/blog/visual-design-and-colour-accessibility/) Visual design and color accessibility
-  * [A List Apart](https://alistapart.com/blog/post/easy-color-contrast-testing) Easy Color Contrast Testing
-  * [Viget](https://www.viget.com/articles/color-contrast) Color Contrast for Better Readability
-  #### Tools
-  * [WAVE](http://wave.webaim.org/) Web Accessibility Evaluation Tool
-  * [Contrast Ratio](http://6220119.github.io/contrast-ratio/#/black-on-white) A tool to calculate the contrast ratio between any two valid CSS colors
-  * [Snook](https://snook.ca/technical/colour_contrast/colour.html#fg=515A5F,bg=FFFFFF) Colour Contrast Check
-  * [Title](Link)
+#### Reading
+* [Gov.Uk](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) Making your service accessible: an introduction
+* [Smashing Magazine](https://www.smashingmagazine.com/2014/10/color-contrast-tips-and-tools-for-accessibility/) Color Contrast And Why You Should Rethink It
+* [Medium](https://medium.com/@GarronEngstrom/accessibility-101-56f87f3d726e) Accessibility for designers. Mind your RGB’s
+* [Web Credible](https://www.webcredible.com/blog/visual-design-and-colour-accessibility/) Visual design and color accessibility
+* [A List Apart](https://alistapart.com/blog/post/easy-color-contrast-testing) Easy Color Contrast Testing
+* [Viget](https://www.viget.com/articles/color-contrast) Color Contrast for Better Readability
+#### Tools
+* [WAVE](http://wave.webaim.org/) Web Accessibility Evaluation Tool
+* [Contrast Ratio](http://6220119.github.io/contrast-ratio/#/black-on-white) A tool to calculate the contrast ratio between any two valid CSS colors
+* [Snook](https://snook.ca/technical/colour_contrast/colour.html#fg=515A5F,bg=FFFFFF) Colour Contrast Check
+* [Title](Link)
 
 ## Reading
 * [UX Magazine](http://uxmag.com/) UX Magazine is a free community resource exploring all facets of experience design
