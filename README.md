@@ -6,7 +6,6 @@ This is a collection of bookmarks intended to help guide a product designers.
 * [Product Talk](https://www.producttalk.org/) Make better product decisions.
 * [NN Group](https://www.nngroup.com/) Evidence-Based User Experience Research, Training, and Consulting
 * [Cognitive Lode](http://coglode.com/) Brain gems for decision-makers
-
   #### Tools
   * [The Rainbow Spreadsheet](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) A Collaborative Lean UX Research Tool
 
