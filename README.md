@@ -19,10 +19,26 @@ This is a collection of bookmarks intended to help guide product designers.
 * [Medial Lab Amsterdam](http://medialabamsterdam.com/toolkit/) Design method toolkit
 * [Design Kit IDEO](http://www.designkit.org/methods) A step-by-step guide to unleashing your creativity
 * [Gamestorming](http://gamestorming.com/) Gamestorming is a set of co-creation tools used by innovators around the world
+#### Reading
+* [UX Magazine](http://uxmag.com/) UX Magazine is a free community resource exploring all facets of experience design
+* [UX Both](http://www.uxbooth.com/) The UX Booth is a publication by and for the user experience community
+* [UX Mastery](http://uxmastery.com/) We help user experience professionals get started and get better
+* [UX Myths](http://uxmyths.com/) Build your product based on evidence, not false beliefs.
+* [A List Apart](https://alistapart.com/) A List Apart explores the design, development, and meaning of web content
+* [52 Weeks of UX](http://52weeksofux.com/) A discourse on the process of designing for real people
+* [UX Pin](https://www.uxpin.com/studio/) Guides, articles and ebooks that explore all facets of UX Design
+* [The IxD Library](http://theixdlibrary.com/) A collection of materials related to Interaction Design
+* [LukeW](https://www.lukew.com/ff) Publications on the critical details and big picture behind digital product design
+* [NN Group](https://www.nngroup.com/articles/) Evidence-Based User Experience Research, Training, and Consulting
+* [Cooper](https://www.cooper.com/journal/) A blog about design, business, and the world we live in
+* [Information Design](http://www.informationdesign.org/) InfoDesign Hand-picked since 1997
+* [Intercom](https://blog.intercom.com/) Design, Customer Success, & Startup Blog
+* [UX Bear](https://uxdesign.cc/) User Experience, Usability, Product Design. Follow the UX Bear
+* [UX Reactions](http://uxreactions.com/) Fun stuff
 #### Tools
 * [UX Recipe](http://uxrecipe.github.io/) This project is a personal manifesto against the objectification of the term "UX"
 * [UX Checklist](http://uxchecklist.github.io/) UX Project Checklist
-* [UX Stackexchange](https://ux.stackexchange.com/) UX Stack Exchange is a question and answer site  
+* [UX Stackexchange](https://ux.stackexchange.com/) UX Stack Exchange is a question and answer site
 
 ## UI
 * [iOS Guidelines](https://developer.apple.com/design/) Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms
@@ -135,23 +151,6 @@ This is a collection of bookmarks intended to help guide product designers.
 * [Hemingway](http://www.hemingwayapp.com/) Hemingway App makes your writing bold and clear
 * [Readable](https://readable.io/) You have 7 seconds to grab someone's attention. Readable.io helps you cut out the noise.
 * [The Writer](http://www.thewriter.com/what-we-think/readability-checker/) How readable is your writing?
-
-## Reading
-* [UX Magazine](http://uxmag.com/) UX Magazine is a free community resource exploring all facets of experience design
-* [UX Both](http://www.uxbooth.com/) The UX Booth is a publication by and for the user experience community
-* [UX Mastery](http://uxmastery.com/) We help user experience professionals get started and get better
-* [UX Myths](http://uxmyths.com/) Build your product based on evidence, not false beliefs.
-* [A List Apart](https://alistapart.com/) A List Apart explores the design, development, and meaning of web content
-* [52 Weeks of UX](http://52weeksofux.com/) A discourse on the process of designing for real people
-* [UX Pin](https://www.uxpin.com/studio/) Guides, articles and ebooks that explore all facets of UX Design
-* [The IxD Library](http://theixdlibrary.com/) A collection of materials related to Interaction Design
-* [LukeW](https://www.lukew.com/ff) Publications on the critical details and big picture behind digital product design
-* [NN Group](https://www.nngroup.com/articles/) Evidence-Based User Experience Research, Training, and Consulting
-* [Cooper](https://www.cooper.com/journal/) A blog about design, business, and the world we live in
-* [Information Design](http://www.informationdesign.org/) InfoDesign Hand-picked since 1997
-* [Intercom](https://blog.intercom.com/) Design, Customer Success, & Startup Blog
-* [UX Bear](https://uxdesign.cc/) User Experience, Usability, Product Design. Follow the UX Bear
-* [UX Reactions](http://uxreactions.com/) Fun stuff
 
 ## Data
 * [London Datastore](https://data.london.gov.uk/) The London Datastore is a free and open data-sharing portal
