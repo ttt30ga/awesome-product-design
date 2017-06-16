@@ -4,8 +4,7 @@
 
 This is a collection of bookmarks intended to help guide product designers.
 
-# Contents
-
+## Content
 - [Research](#research)
 - [UX](#ux)
 - [UI](#ui)
@@ -39,6 +38,7 @@ This is a collection of bookmarks intended to help guide product designers.
 - [Calendly](https://calendly.com/) Calendly helps you schedule meetings without the back-and-forth emails
 
 ## UX
+#### Guides
 - [The UX Bookmark](http://www.theuxbookmark.com/) A collection of the best UX websites from across the globe
 - [Gov.Uk](https://www.gov.uk/service-manual/) Helping government teams create and run great digital services
 - [Usability.Gov](https://www.usability.gov/) Improving the User Experience
