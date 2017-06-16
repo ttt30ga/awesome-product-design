@@ -6,8 +6,8 @@ This is a collection of bookmarks intended to help guide product designers.
 
 # Contents
 
-- [Research](##research)
-  - [Methods](####methods)
+- [Research](#research)
+  - [Methods](#methods)
 - [How to build a styleguide](#how-to-build-a-styleguide)
 - [Other Styleguide Lists](#other-styleguide-lists)
 - [Styleguides](#styleguides)
