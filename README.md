@@ -1,6 +1,45 @@
+![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
+
 # Product Design Bookmarks
 
 This is a collection of bookmarks intended to help guide product designers.
+
+# Contents
+
+- [Research](##research)
+  - [Methods](####methods)
+- [How to build a styleguide](#how-to-build-a-styleguide)
+- [Other Styleguide Lists](#other-styleguide-lists)
+- [Styleguides](#styleguides)
+	- [Generic](#generic)
+	- [CSS](#css)
+		- [SASS](#sass)
+	- [C++](#c)
+	- [Shell Script](#shell-script)
+	- [Git](#git)
+	- [HTML](#html)
+	- [Java](#java)
+	- [Javascript](#javascript)
+		- [AngularJS](#angularjs)
+		- [CoffeeScript](#coffeescript)
+		- [HTTP Design](#http-design)
+		- [JSON](#json)
+		- [jQuery](#jquery)
+		- [Modules](#modules)
+		- [npm](#npm)
+		- [React](#react)
+		- [Riot](#riot)
+	- [Lisp](#lisp)
+	- [Objective-C](#objective-c)
+	- [PHP](#php)
+	- [Python](#python)
+	- [Ruby](#ruby)
+		- [Ruby on Rails](#ruby-on-rails)
+	- [Rust](#rust)
+	- [Swift](#swift)
+- [Non-Code](#non-code)
+	- [Historical](#historical)
+- [License](#license)
 
 ## Research
 * [Product Talk](https://www.producttalk.org/) Make better product decisions
@@ -10,6 +49,19 @@ This is a collection of bookmarks intended to help guide product designers.
 * [Design Research Techniques](http://designresearchtechniques.com/#/) Online repository and evolving resource for Participatory Design Techniques
 #### Tools
 * [The Rainbow Spreadsheet](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) A Collaborative Lean UX Research Tool
+#### Testing
+* [User Testing](https://www.usertesting.com/) Unlock customer insights and increase your revenue
+* [Optimal Workshop](https://www.optimalworkshop.com/) A User Research Platform that helps you and your team make design decisions with confidence.
+* [Measure Success](https://www.sitepoint.com/how-do-you-measure-the-success-or-failure-of-your-ux-design/) How Do You Measure the Success (or Failure) of Your UX Design?
+* [UX Metrix](http://www.dtelepathy.com/ux-metrics/#intro) How to Choose the Right UX Metrics for Your Product
+* [Lookback](https://lookback.io/) Simple, powerful user research
+* [Full Story](https://www.fullstory.com/) What do you want to know about your customer experience?
+* [Desinion](http://www.desinion.com/) Make smart and informed design decisions for your company, or your client's company
+* [Survey Monkey](https://www.surveymonkey.com/) Turn instincts into insights
+* [Google Surveys](https://www.google.com/analytics/surveys/#?modal_active=none) Make better decisions with market research
+* [Type From](https://www.typeform.com/) Goodbye forms. Hello typeforms
+* [Etnio](https://ethn.io/) Intercept Real People for User Research
+* [Calendly](https://calendly.com/) Calendly helps you schedule meetings without the back-and-forth emails
 
 ## UX
 * [The UX Bookmark](http://www.theuxbookmark.com/) A collection of the best UX websites from across the globe
@@ -64,12 +116,14 @@ This is a collection of bookmarks intended to help guide product designers.
 * [iDetailAid](http://labs.rampinteractive.co.uk/android_dp_px_calculator/) Android DP / PX converter
 
 ## Visual
-#### Branding
+#### Resources
 * [Design Principles FTW](http://www.designprinciplesftw.com/) The biggest collection of Design Principles on the Internet
 * [Find Guidelines](http://findguidelin.es/) The fastest way to brand assets
-* [Brand Colors](http://brand-colors.com/) A 1100+ color collection available in sass, less, stylus and css
+* [Style Guides](http://styleguides.io/) Website Style Guide Resources
+* [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) A curated list of design systems, patterns libraries, and everything inbetween
 * [Instant Logo Search](http://instantlogosearch.com/) Search & download thousands of logos instantly
 * [Logo Book](http://www.logobook.com/) Discover the worlds finest logos, symbols & trademarks
+* [Awesome Sketch](https://github.com/diessica/awesome-sketch) A curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
 #### Icons
 * [Use Iconic](https://useiconic.com/) Meet Iconic. The definitive icon set designed for the modern web
 * [Icon Finder](https://www.iconfinder.com/) Search through 1,739,045 icons or browse 42,226 icon sets
@@ -86,6 +140,7 @@ This is a collection of bookmarks intended to help guide product designers.
 * [Coolors](https://coolors.co/) The super fast color schemes generator!
 * [Colour Lovers](http://www.colourlovers.com/) A creative community
 * [Color Hunt](http://colorhunt.co/) Color Hunt is a social platform for everyone who love colors
+* [Brand Colors](http://brand-colors.com/) A 1100+ color collection available in sass, less, stylus and css
 #### Stock Images
 * [Unsplash](https://unsplash.com/) Free (do whatever you want) high-resolution photos
 * [StockSnap](https://stocksnap.io/) Hundreds of high resolution images added weekly
@@ -113,24 +168,16 @@ This is a collection of bookmarks intended to help guide product designers.
 * [The 12 Principles](http://the12principles.tumblr.com/) The 12 basic principles of animation were developed by the ‘old men’ of Walt Disney Studios
 * [Hoverstat](https://hoverstat.es/) The home of alternative digital design
 * [Microinteractions](http://microinteractions.com/) Designing with Details
+* [Motion UI Design](https://github.com/fliptheweb/motion-ui-design) Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
 #### Tools
+* [Lottie](https://airbnb.design/lottie/) Easily add high-quality animation to any native app
+#### Softwares
 * [Invision](https://www.invisionapp.com/) The world's leading prototyping, collaboration & workflow platform
 * [Marvel](https://marvelapp.com/) Simple design, prototyping and collaboration
 * [Flinto](https://www.flinto.com/) Flinto lets designers quickly make interactive prototypes of their mobile, desktop, or web apps
 * [Origami Studio](http://origami.design/) Explore, iterate, and test your ideas
 * [Framer](https://framer.com/) An all-in-one design workflow
-* [Form](http://relativewave.com/form/) Build and customize native prototypes directly on device.
-
-## Testing
-* [User Testing](https://www.usertesting.com/) Unlock customer insights and increase your revenue
-* [Optimal Workshop](https://www.optimalworkshop.com/) A User Research Platform that helps you and your team make design decisions with confidence.
-* [Measure Success](https://www.sitepoint.com/how-do-you-measure-the-success-or-failure-of-your-ux-design/) How Do You Measure the Success (or Failure) of Your UX Design?
-* [UX Metrix](http://www.dtelepathy.com/ux-metrics/#intro) How to Choose the Right UX Metrics for Your Product
-* [Lookback](https://lookback.io/) Simple, powerful user research
-* [Full Story](https://www.fullstory.com/) What do you want to know about your customer experience?
-* [Desinion](http://www.desinion.com/) Make smart and informed design decisions for your company, or your client's company
-* [Survey Monkey](https://www.surveymonkey.com/) Turn instincts into insights
-* [Google Surveys](https://www.google.com/analytics/surveys/#?modal_active=none) Make better decisions with market research.
+* [Form](http://relativewave.com/form/) Build and customize native prototypes directly on device
 
 ## Accessibility
 #### Read
@@ -156,6 +203,7 @@ This is a collection of bookmarks intended to help guide product designers.
 * [London Datastore](https://data.london.gov.uk/) The London Datastore is a free and open data-sharing portal
 * [YouGov](https://yougov.com/) We believe in the power of participation
 * [Data.Gov](https://data.gov.uk/) Find data published by government departments and agencies, public bodies and local authorities
+* [The Tate Collection](https://github.com/tategallery/collection) Here we present the metadata for around 70,000 artworks
 
 ## IOT
 #### Read
