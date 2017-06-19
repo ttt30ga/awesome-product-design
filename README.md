@@ -1,7 +1,7 @@
-[![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg)]()
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]()
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()
 [![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)]()
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]()
+[![Star on GitHub][github-star-badge]][github-star]
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()
 
 # Product Design Bookmarks
 
