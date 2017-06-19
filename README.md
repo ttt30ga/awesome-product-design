@@ -1,7 +1,3 @@
-[![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)]()
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/teoga/product-design-bookmarks/stargazers)
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()
-
 # Product Design Bookmarks
 
 This is a collection of bookmarks intended to help guide product designers.
