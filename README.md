@@ -1,4 +1,7 @@
-![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
+[![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg)]()
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]()
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()
+[![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)]()
 
 # Product Design Bookmarks
 
