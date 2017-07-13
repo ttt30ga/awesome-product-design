@@ -1,3 +1,5 @@
+![Product Design Bookmarks](/images/pdb_image.jpg?raw=true "Product Design Bookmarks")
+
 # Product Design Bookmarks
 
 This is a collection of bookmarks intended to help guide product designers.
@@ -14,6 +16,7 @@ This is a collection of bookmarks intended to help guide product designers.
 - [IOT](#iot)
 
 ## Research
+#### Read
 - [Product Talk](https://www.producttalk.org/) Make better product decisions
 - [Cognitive Lode](http://coglode.com/) Brain gems for decision-makers
 #### Methods
@@ -36,7 +39,7 @@ This is a collection of bookmarks intended to help guide product designers.
 - [Calendly](https://calendly.com/) Calendly helps you schedule meetings without the back-and-forth emails
 
 ## UX
-#### Guides
+#### Guidelines
 - [The UX Bookmark](http://www.theuxbookmark.com/) A collection of the best UX websites from across the globe
 - [Gov.Uk](https://www.gov.uk/service-manual/) Helping government teams create and run great digital services
 - [Usability.Gov](https://www.usability.gov/) Improving the User Experience
@@ -66,6 +69,7 @@ This is a collection of bookmarks intended to help guide product designers.
 - [UX Stackexchange](https://ux.stackexchange.com/) UX Stack Exchange is a question and answer site
 
 ## UI
+#### Guidelines
 - [iOS Guidelines](https://developer.apple.com/design/) Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms
 - [Google Material](https://material.io/) Material Design is a unified system that combines theory, resources, and tools for crafting digital experiences
 - [Google Design](https://design.google.com/) Google Design is a cooperative effort led by a group of designers, writers, and developers at Google
@@ -144,13 +148,17 @@ This is a collection of bookmarks intended to help guide product designers.
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design) Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
 #### Tools
 - [Lottie](https://airbnb.design/lottie/) Easily add high-quality animation to any native app
+- [Keynotopia](http://keynotopia.com/) Keynotopia transforms Keynote and PowerPoint into the best rapid prototyping tools for creating mobile, web and desktop UI mockups
 #### Softwares
+- [Pop](https://marvelapp.com/pop/) POP helps you transform your pen and paper ideas into an interactive iPhone or Android prototype
 - [Invision](https://www.invisionapp.com/) The world's leading prototyping, collaboration & workflow platform
 - [Marvel](https://marvelapp.com/) Simple design, prototyping and collaboration
 - [Flinto](https://www.flinto.com/) Flinto lets designers quickly make interactive prototypes of their mobile, desktop, or web apps
 - [Origami Studio](http://origami.design/) Explore, iterate, and test your ideas
 - [Framer](https://framer.com/) An all-in-one design workflow
 - [Form](http://relativewave.com/form/) Build and customize native prototypes directly on device
+- [Proto](https://proto.io/) Create fully-interactive high-fidelity prototypes that look and work exactly like your app should. No coding required
+- [Fuse](https://www.fusetools.com/) Create better native apps for iOS and Android with a new breed of development tools
 
 ## Accessibility
 #### Read
