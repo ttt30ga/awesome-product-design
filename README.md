@@ -16,25 +16,58 @@ This is a collection of bookmarks intended to help guide product designers.
 - [IOT](#iot)
 
 ## Research
-#### Read
-- [Product Talk](https://www.producttalk.org/) Make better product decisions
-- [Cognitive Lode](http://coglode.com/) Brain gems for decision-makers
 #### Methods
-- [NN Group](https://www.nngroup.com/articles/which-ux-research-methods/) When to Use Which User-Experience Research Methods
-- [Design Research Techniques](http://designresearchtechniques.com/#/) Online repository and evolving resource for Participatory Design Techniques
+###### Research Plan
+- [Smashing Magazine](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/) The UX Research Plan That Stakeholders Love
+- [NN Group](https://www.nngroup.com/articles/pm-research-plan/) Project Management for User Research: The Plan
+- [Interaction Design](https://www.interaction-design.org/literature/article/a-one-page-user-research-plan) A One Page User Research Plan
+###### User Interview
+- [NN Group](https://www.nngroup.com/articles/interviewing-users/) Despite many weaknesses, interviews are a valuable method for exploratory user research
+- [UXDesign.cc](https://uxdesign.cc/how-to-get-the-most-out-of-user-interviews-c5d0cd4499b5) How to Get the Most Out of User Interviews
+###### Stakeholder Interviews
+- [Boxes and Arrows](http://boxesandarrows.com/a-stakeholder-interview-checklist/) A Cheat Sheet For Interviewing Stakeholders
+- [UX Apprentice](https://www.uxapprentice.com/resources/stakeholder-interview-template/) Stakeholder Interview Template
+- [Interaction Design](https://www.interaction-design.org/literature/article/preparing-for-ux-stakeholder-interviews) Preparing for UX Stakeholder Interviews
+###### Research Synthesis
+- [UX Movement](http://uxmovement.com/thinking/how-to-turn-user-research-into-usable-data/) How to Turn User Research into Usable Data
+- [SlideShare](https://www.slideshare.net/HJKwon3/design-research-synthesis) Design Research Synthesis
+- [Medium](https://medium.com/product-labs/using-trello-for-user-research-synthesis-fb1abdfc7c4b) Using Trello for User Research Synthesis
+- [Tuts+](https://webdesign.tutsplus.com/tutorials/how-to-prepare-and-use-an-affinity-diagram--cms-28388) How to Prepare and Use an Affinity Diagram
+- [Medium](https://medium.com/learning-ux/affinity-diagrams-tips-and-tricks-6225e8c1f0df) Affinity Diagrams: Tips and Tricks
+###### Competitive Analysis
+- []()
+- []()
+- []()
+###### Personas
+- [Usability.Gov](https://www.usability.gov/how-to-and-tools/methods/personas.html) The purpose of personas is to create reliable and realistic representations of your key audience
+- [UX Mag](https://uxmag.com/articles/personas-the-foundation-of-a-great-user-experience) Personas: The Foundation of a Great User Experience
+- [Tuts+](https://webdesign.tutsplus.com/articles/defining-and-applying-personas-to-ux-design--webdesign-7561) Defining And Applying Personas to UX Design
+###### Empathy Map
+- []()
+- []()
+- []()
+###### Storyboard
+- []()
+- []()
+- []()
+###### UX Map
+- [NN Group](https://www.nngroup.com/articles/customer-journey-mapping/) When and How to Create Customer Journey Maps
+- [UX Lady](http://www.ux-lady.com/experience-maps-user-journey-and-more-exp-map-layout/) Experience maps, user journeys and more
+- [Smashing Magazine](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/) All You Need To Know About Customer Journey Mapping
 #### Tools
-- [The Rainbow Spreadsheet](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) A Collaborative Lean UX Research Tool
+- [Smashing Magazine](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) The Rainbow Spreadsheet: A Collaborative Lean UX Research Tool
 #### Testing
 - [User Testing](https://www.usertesting.com/) Unlock customer insights and increase your revenue
 - [Optimal Workshop](https://www.optimalworkshop.com/) A User Research Platform that helps you and your team make design decisions with confidence.
 - [Measure Success](https://www.sitepoint.com/how-do-you-measure-the-success-or-failure-of-your-ux-design/) How Do You Measure the Success (or Failure) of Your UX Design?
 - [UX Metrix](http://www.dtelepathy.com/ux-metrics/#intro) How to Choose the Right UX Metrics for Your Product
 - [Lookback](https://lookback.io/) Simple, powerful user research
+- [Appsee](https://www.appsee.com/) Appsee's app analytics platform provides an in-depth analysis of your users' behavior
 - [Full Story](https://www.fullstory.com/) What do you want to know about your customer experience?
 - [Desinion](http://www.desinion.com/) Make smart and informed design decisions for your company, or your client's company
 - [Survey Monkey](https://www.surveymonkey.com/) Turn instincts into insights
 - [Google Surveys](https://www.google.com/analytics/surveys/#?modal_active=none) Make better decisions with market research
-- [Type From](https://www.typeform.com/) Goodbye forms. Hello typeforms
+- [Typefrom](https://www.typeform.com/) Goodbye forms. Hello typeforms
 - [Etnio](https://ethn.io/) Intercept Real People for User Research
 - [Calendly](https://calendly.com/) Calendly helps you schedule meetings without the back-and-forth emails
 
@@ -47,7 +80,7 @@ This is a collection of bookmarks intended to help guide product designers.
 - [Medial Lab Amsterdam](http://medialabamsterdam.com/toolkit/) Design method toolkit
 - [Design Kit IDEO](http://www.designkit.org/methods) A step-by-step guide to unleashing your creativity
 - [Gamestorming](http://gamestorming.com/) Gamestorming is a set of co-creation tools used by innovators around the world
-#### Reading
+#### Articles
 - [UX Magazine](http://uxmag.com/) UX Magazine is a free community resource exploring all facets of experience design
 - [UX Both](http://www.uxbooth.com/) The UX Booth is a publication by and for the user experience community
 - [UX Mastery](http://uxmastery.com/) We help user experience professionals get started and get better
@@ -61,7 +94,7 @@ This is a collection of bookmarks intended to help guide product designers.
 - [Cooper](https://www.cooper.com/journal/) A blog about design, business, and the world we live in
 - [Information Design](http://www.informationdesign.org/) InfoDesign Hand-picked since 1997
 - [Intercom](https://blog.intercom.com/) Design, Customer Success, & Startup Blog
-- [UX Bear](https://uxdesign.cc/) User Experience, Usability, Product Design. Follow the UX Bear
+- [UXDesign.cc](https://uxdesign.cc/) User Experience, Usability, Product Design. Follow the UXDesign.cc
 - [UX Reactions](http://uxreactions.com/) Fun stuff
 #### Tools
 - [UX Recipe](http://uxrecipe.github.io/) This project is a personal manifesto against the objectification of the term "UX"
@@ -141,7 +174,7 @@ This is a collection of bookmarks intended to help guide product designers.
 - [Font Reach](http://www.fontreach.com/) FontReach scans the top million sites to show font usage across the web
 
 ## Prototype
-#### Read
+#### Articles
 - [The 12 Principles](http://the12principles.tumblr.com/) The 12 basic principles of animation were developed by the ‘old men’ of Walt Disney Studios
 - [Hoverstat](https://hoverstat.es/) The home of alternative digital design
 - [Microinteractions](http://microinteractions.com/) Designing with Details
@@ -161,7 +194,7 @@ This is a collection of bookmarks intended to help guide product designers.
 - [Fuse](https://www.fusetools.com/) Create better native apps for iOS and Android with a new breed of development tools
 
 ## Accessibility
-#### Read
+#### Articles
 - [Gov.Uk](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) Making your service accessible: an introduction
 - [Smashing Magazine](https://www.smashingmagazine.com/2014/10/color-contrast-tips-and-tools-for-accessibility/) Color Contrast And Why You Should Rethink It
 - [Medium](https://medium.com/@GarronEngstrom/accessibility-101-56f87f3d726e) Accessibility for designers. Mind your RGB’s
@@ -187,7 +220,7 @@ This is a collection of bookmarks intended to help guide product designers.
 - [The Tate Collection](https://github.com/tategallery/collection) Here we present the metadata for around 70,000 artworks
 
 ## IOT
-#### Read
+#### Articles
 - [IOT Manifesto](https://www.iotmanifesto.com/) Guidelines for responsible design in a connected world
 #### Tools
 - [Node RED](http://nodered.org/) Flow-based programming for the Internet of Things
