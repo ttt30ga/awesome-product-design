@@ -35,25 +35,27 @@ This is a collection of bookmarks intended to help guide product designers.
 - [Tuts+](https://webdesign.tutsplus.com/tutorials/how-to-prepare-and-use-an-affinity-diagram--cms-28388) How to Prepare and Use an Affinity Diagram
 - [Medium](https://medium.com/learning-ux/affinity-diagrams-tips-and-tricks-6225e8c1f0df) Affinity Diagrams: Tips and Tricks
 ###### Competitive Analysis
-- []()
-- []()
-- []()
+- [Xtensio](https://xtensio.com/how-to-create-a-competitive-analysis/) How To: Create A Competitive Analysis
+- [Hootsuite](https://blog.hootsuite.com/the-ultimate-competitive-analysis-template/) A Competitive Analysis Template To Help You Outsmart The Competition
+###### Job to be Done
+- [Intercom](https://blog.intercom.com/using-job-stories-design-features-ui-ux/) Designing features using Job Stories
+- [JTBD](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27) Replacing The User Story With The Job Story
 ###### Personas
 - [Usability.Gov](https://www.usability.gov/how-to-and-tools/methods/personas.html) The purpose of personas is to create reliable and realistic representations of your key audience
 - [UX Mag](https://uxmag.com/articles/personas-the-foundation-of-a-great-user-experience) Personas: The Foundation of a Great User Experience
 - [Tuts+](https://webdesign.tutsplus.com/articles/defining-and-applying-personas-to-ux-design--webdesign-7561) Defining And Applying Personas to UX Design
 ###### Empathy Map
-- []()
-- []()
-- []()
+- [UX Pin](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/) The Practical Guide to Empathy Maps: 10-Minute User Personas
+- [Boagworld](https://boagworld.com/usability/adapting-empathy-maps-for-ux-design/) Adapting empathy maps for UX design
 ###### Storyboard
-- []()
-- []()
-- []()
+- [UX Magazine](http://uxmag.com/articles/storyboarding-in-the-software-design-process) Storyboarding in the Software Design Process
+- [Medium](https://uxplanet.org/storyboarding-in-ux-design-b9d2e18e5fab) Storyboarding in UX Design
+- [Johnny Holland](http://johnnyholland.org/2011/10/storyboarding-ux-part-1-an-introduction/) Storyboarding & UX
 ###### UX Map
 - [NN Group](https://www.nngroup.com/articles/customer-journey-mapping/) When and How to Create Customer Journey Maps
 - [UX Lady](http://www.ux-lady.com/experience-maps-user-journey-and-more-exp-map-layout/) Experience maps, user journeys and more
 - [Smashing Magazine](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/) All You Need To Know About Customer Journey Mapping
+- [Medium](https://medium.com/@wnialloconnor/how-to-build-an-experience-map-5e55b7ee4f32) How to build an experience map
 #### Tools
 - [Smashing Magazine](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) The Rainbow Spreadsheet: A Collaborative Lean UX Research Tool
 #### Testing
@@ -75,8 +77,8 @@ This is a collection of bookmarks intended to help guide product designers.
 #### Guidelines
 - [The UX Bookmark](http://www.theuxbookmark.com/) A collection of the best UX websites from across the globe
 - [Gov.Uk](https://www.gov.uk/service-manual/) Helping government teams create and run great digital services
+- [Methods 18F](https://methods.18f.gov/) A collection of tools to bring human-centered design into your project
 - [Usability.Gov](https://www.usability.gov/) Improving the User Experience
-#### Methods
 - [Medial Lab Amsterdam](http://medialabamsterdam.com/toolkit/) Design method toolkit
 - [Design Kit IDEO](http://www.designkit.org/methods) A step-by-step guide to unleashing your creativity
 - [Gamestorming](http://gamestorming.com/) Gamestorming is a set of co-creation tools used by innovators around the world
