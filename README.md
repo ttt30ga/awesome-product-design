@@ -4,7 +4,7 @@
 
 This is a collection of bookmarks intended to help guide product designers.
 
-## Content
+## Contents
 - [Research](#research)
 - [UX](#ux)
 - [UI](#ui)
@@ -60,7 +60,7 @@ This is a collection of bookmarks intended to help guide product designers.
 - [Smashing Magazine](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) The Rainbow Spreadsheet: A Collaborative Lean UX Research Tool
 #### Testing
 - [User Testing](https://www.usertesting.com/) Unlock customer insights and increase your revenue
-- [Optimal Workshop](https://www.optimalworkshop.com/) A User Research Platform that helps you and your team make design decisions with confidence.
+- [Optimal Workshop](https://www.optimalworkshop.com/) A User Research Platform that helps you and your team make design decisions with confidence
 - [Measure Success](https://www.sitepoint.com/how-do-you-measure-the-success-or-failure-of-your-ux-design/) How Do You Measure the Success (or Failure) of Your UX Design?
 - [UX Metrix](http://www.dtelepathy.com/ux-metrics/#intro) How to Choose the Right UX Metrics for Your Product
 - [Lookback](https://lookback.io/) Simple, powerful user research
@@ -181,9 +181,6 @@ This is a collection of bookmarks intended to help guide product designers.
 - [Hoverstat](https://hoverstat.es/) The home of alternative digital design
 - [Microinteractions](http://microinteractions.com/) Designing with Details
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design) Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
-#### Tools
-- [Lottie](https://airbnb.design/lottie/) Easily add high-quality animation to any native app
-- [Keynotopia](http://keynotopia.com/) Keynotopia transforms Keynote and PowerPoint into the best rapid prototyping tools for creating mobile, web and desktop UI mockups
 #### Softwares
 - [Pop](https://marvelapp.com/pop/) POP helps you transform your pen and paper ideas into an interactive iPhone or Android prototype
 - [Invision](https://www.invisionapp.com/) The world's leading prototyping, collaboration & workflow platform
@@ -194,6 +191,9 @@ This is a collection of bookmarks intended to help guide product designers.
 - [Form](http://relativewave.com/form/) Build and customize native prototypes directly on device
 - [Proto](https://proto.io/) Create fully-interactive high-fidelity prototypes that look and work exactly like your app should. No coding required
 - [Fuse](https://www.fusetools.com/) Create better native apps for iOS and Android with a new breed of development tools
+#### Tools
+- [Lottie](https://airbnb.design/lottie/) Easily add high-quality animation to any native app
+- [Keynotopia](http://keynotopia.com/) Keynotopia transforms Keynote and PowerPoint into the best rapid prototyping tools for creating mobile, web and desktop UI mockups
 
 ## Accessibility
 #### Articles
@@ -227,3 +227,6 @@ This is a collection of bookmarks intended to help guide product designers.
 #### Tools
 - [Node RED](http://nodered.org/) Flow-based programming for the Internet of Things
 - [Noodl](http://www.getnoodl.com/) Digital Experience Design Platform
+
+## License
+![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
