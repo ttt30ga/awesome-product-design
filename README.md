@@ -15,7 +15,7 @@ Feel free to [add something interesting](contributing.md) by pull request!
 - [Accessibility](#accessibility)
 - [Writing](#writing)
 - [Data](#data)
-- [IOT](#iot)
+- [IoT](#iot)
 
 ## Research
 #### Methods
@@ -224,9 +224,12 @@ Feel free to [add something interesting](contributing.md) by pull request!
 - [The Tate Collection](https://github.com/tategallery/collection) Here we present the metadata for around 70,000 artworks
 - [NASA](https://open.nasa.gov/open-data/) We're Setting Data, Code and APIs free
 
-## IOT
+## IoT
 #### Articles
-- [IOT Manifesto](https://www.iotmanifesto.com/) Guidelines for responsible design in a connected world
+- [IoT Manifesto](https://www.iotmanifesto.com/) Guidelines for responsible design in a connected world
+- [IoT Weekly News](http://iotweeklynews.com/) Subscribe to hand picked articles by Justin Grammens on the Internet of Things
+- [IoT Agenda](http://internetofthingsagenda.techtarget.com/feature/Design-an-IoT-user-experience-not-an-IoT-product) Design an IoT user experience, not an IoT product
+- [IoT For All](https://iot-for-all.com/designing-the-internet-of-things/) Designing the Internet of Things – 5 Key Principles
 #### Tools
 - [Node RED](http://nodered.org/) Flow-based programming for the Internet of Things
 - [Noodl](http://www.getnoodl.com/) Digital Experience Design Platform
