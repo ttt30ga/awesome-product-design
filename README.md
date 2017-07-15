@@ -80,6 +80,7 @@ Feel free to [add something interesting](contributing.md) by pull request!
 - [The UX Bookmark](http://www.theuxbookmark.com/) A collection of the best UX websites from across the globe
 - [Gov.Uk](https://www.gov.uk/service-manual/) Helping government teams create and run great digital services
 - [Methods 18F](https://methods.18f.gov/) A collection of tools to bring human-centered design into your project
+- [Guides 18F](https://guides.18f.gov/) 18F Guides is the repository for best practices across our teams
 - [Usability.Gov](https://www.usability.gov/) Improving the User Experience
 - [Medial Lab Amsterdam](http://medialabamsterdam.com/toolkit/) Design method toolkit
 - [Design Kit IDEO](http://www.designkit.org/methods) A step-by-step guide to unleashing your creativity
