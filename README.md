@@ -2,7 +2,8 @@
 
 # Product Design Bookmarks
 
-This is a collection of bookmarks intended to help guide product designers.
+A collection of bookmarks, resources, articles for product designers.
+Feel free to [add something interesting](contributing.md) by pull request!
 
 ## Contents
 - [Research](#research)
