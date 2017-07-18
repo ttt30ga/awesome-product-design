@@ -144,6 +144,7 @@ Feel free to [add something interesting](contributing.md) by pull request!
 - [Icon Finder](https://www.iconfinder.com/) Search through 1,739,045 icons or browse 42,226 icon sets
 - [We Love Icon Font](http://weloveiconfonts.com/) This is a free & open source icon fonts hosting service
 - [The Noun Project](https://thenounproject.com/) Icons for everything
+- [Iconmonstr](https://iconmonstr.com/) Discover 3847+ free simple icons in 263 collections
 #### Font Foundries
 - [Open Foundry](http://open-foundry.com/) A new platform for open-source fonts in a noise-free environment
 - [Use & Modify](http://usemodify.com/) Provide a contemporary set of fonts distributed under libre or open source licences, hand picked by a typography and free culture lover
