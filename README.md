@@ -74,6 +74,7 @@ Feel free to [add something interesting](contributing.md) by pull request!
 - [Typefrom](https://www.typeform.com/) Goodbye forms. Hello typeforms
 - [Etnio](https://ethn.io/) Intercept Real People for User Research
 - [Calendly](https://calendly.com/) Calendly helps you schedule meetings without the back-and-forth emails
+- [Better Design](https://betterdesign.io/) Create a post to get feedback on your design, copy or ideas
 
 ## UX
 #### Guidelines
