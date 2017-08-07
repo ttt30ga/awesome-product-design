@@ -58,8 +58,9 @@ Feel free to [add something interesting](contributing.md) by pull request!
 - [UX Lady](http://www.ux-lady.com/experience-maps-user-journey-and-more-exp-map-layout/) Experience maps, user journeys and more
 - [Smashing Magazine](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/) All You Need To Know About Customer Journey Mapping
 - [Medium](https://medium.com/@wnialloconnor/how-to-build-an-experience-map-5e55b7ee4f32) How to build an experience map
-#### Tools
+#### Articles
 - [Smashing Magazine](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) The Rainbow Spreadsheet: A Collaborative Lean UX Research Tool
+- [Coglode](http://coglode.com/) Bite-size behavioral research analysis
 #### Testing
 - [User Testing](https://www.usertesting.com/) Unlock customer insights and increase your revenue
 - [Optimal Workshop](https://www.optimalworkshop.com/) A User Research Platform that helps you and your team make design decisions with confidence
