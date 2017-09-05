@@ -1,8 +1,8 @@
-![Product Design Bookmarks](/images/pdb_image.jpg?raw=true "Product Design Bookmarks")
+# Product Design Bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Product Design Bookmarks
+<img src="https://rawgit.com/teoga/product-design-bookmarks/master/images/pdb_img.svg" align="right" width="100">
 
-A collection of bookmarks, resources, articles for product designers.
+> A collection of bookmarks, resources, articles for product designers.
 
 Feel free to [add something interesting](contributing.md) by pull request!
 
