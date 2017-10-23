@@ -168,6 +168,7 @@ Feel free to [add something interesting](contributing.md) by pull request!
 - [Get Refe](http://getrefe.tumblr.com/) Royalty-free, high-quality, Real Life photos
 - [ISO Republic](http://isorepublic.com/) ISO Republic provides free stock photos for creative professionals
 - [All The Free Stock](http://allthefreestock.com/) Get all the Free Stock Images, Videos, Music and Icons in one location
+- [Pexels](https://www.pexels.com) Free stock images in a range of styles including filtered, natural, and commercial
 #### Stock Videos
 - [Vimeo](https://vimeo.com/channels/freestockfootage/) Royalty Free Stock Video for Free Personal, Corporate or Commercial Use
 - [Mazwai](http://mazwai.com/#/) Great collection of free creative commons HD video clips & footages
