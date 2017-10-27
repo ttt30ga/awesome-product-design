@@ -1,4 +1,4 @@
-# Awesome Product Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) -](https://github.com/sindresorhus/awesome)
+# Awesome Product Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <img src="https://rawgit.com/teoga/product-design-bookmarks/master/images/pdb_img.svg" align="right" width="100">
 
@@ -238,4 +238,4 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Noodl](http://www.getnoodl.com/) - Digital Experience Design Platform.
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg) -](https://creativecommons.org/publicdomain/zero/1.0/) -
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
