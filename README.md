@@ -219,6 +219,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Hemingway](http://www.hemingwayapp.com/) - Hemingway App makes your writing bold and clear.
 - [Readable](https://readable.io/) - You have 7 seconds to grab someone's attention. Readable.io helps you cut out the noise.
 - [The Writer](http://www.thewriter.com/what-we-think/readability-checker/) - How readable is your writing?.
+- [Taskade](https://www.taskade.com/) - Collaborative editor and outliner.
 
 ## Data
 - [London Datastore](https://data.london.gov.uk/) - The London Datastore is a free and open data-sharing portal.
