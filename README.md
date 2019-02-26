@@ -1,6 +1,8 @@
 # Awesome Product Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<img src="https://rawgit.com/teoga/product-design-bookmarks/master/images/pdb_img.svg" align="right" width="100">
+<a href="http://teogagliano.co">
+  <img src="https://rawgit.com/teoga/product-design-bookmarks/master/images/pdb_img.svg" align="right" width="100">
+</a>
 
 > A collection of bookmarks, resources, articles for product designers.
 
@@ -22,12 +24,12 @@ Feel free to [add something interesting](contributing.md) by pull request.
 ###### Research Plan
 - [Smashing Magazine](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/) - The UX Research Plan That Stakeholders Love.
 - [NN Group](https://www.nngroup.com/articles/pm-research-plan/) - Project Management for User Research: The Plan.
-- [Interaction Design](https://www.interaction-design.org/literature/article/a-one-page-user-research-plan) - A One Page User Research Plan.
+- [Interaction Design](https://www.interaction-design.org/literature/article/a-one-page-user-research-plan) - One Page User Research Plan.
 ###### User Interview
 - [NN Group](https://www.nngroup.com/articles/interviewing-users/) - Despite many weaknesses, interviews are a valuable method for exploratory user research.
 - [UXDesign.cc](https://uxdesign.cc/how-to-get-the-most-out-of-user-interviews-c5d0cd4499b5) - How to Get the Most Out of User Interviews.
 ###### Stakeholder Interviews
-- [Boxes and Arrows](http://boxesandarrows.com/a-stakeholder-interview-checklist/) - A Cheat Sheet For Interviewing Stakeholders.
+- [Boxes and Arrows](http://boxesandarrows.com/a-stakeholder-interview-checklist/) - Cheat Sheet For Interviewing Stakeholders.
 - [UX Apprentice](https://www.uxapprentice.com/resources/stakeholder-interview-template/) - Stakeholder Interview Template.
 - [Interaction Design](https://www.interaction-design.org/literature/article/preparing-for-ux-stakeholder-interviews) - Preparing for UX Stakeholder Interviews.
 ###### Research Synthesis
@@ -38,7 +40,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Medium](https://medium.com/learning-ux/affinity-diagrams-tips-and-tricks-6225e8c1f0df) - Affinity Diagrams: Tips and Tricks.
 ###### Competitive Analysis
 - [Xtensio](https://xtensio.com/how-to-create-a-competitive-analysis/) - How To: Create A Competitive Analysis.
-- [Hootsuite](https://blog.hootsuite.com/the-ultimate-competitive-analysis-template/) - A Competitive Analysis Template To Help You Outsmart The Competition.
+- [Hootsuite](https://blog.hootsuite.com/the-ultimate-competitive-analysis-template/) - Competitive Analysis Template To Help You Outsmart The Competition.
 ###### Job to be Done
 - [Intercom](https://blog.intercom.com/using-job-stories-design-features-ui-ux/) - Designing features using Job Stories.
 - [JTBD](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27) - Replacing The User Story With The Job Story.
@@ -62,7 +64,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Coglode](http://coglode.com/) - Bite-size behavioral research analysis.
 #### Testing
 - [User Testing](https://www.usertesting.com/) - Unlock customer insights and increase your revenue.
-- [Optimal Workshop](https://www.optimalworkshop.com/) - A User Research Platform that helps you and your team make design decisions with confidence.
+- [Optimal Workshop](https://www.optimalworkshop.com/) - User Research Platform that helps you and your team make design decisions with confidence.
 - [Measure Success](https://www.sitepoint.com/how-do-you-measure-the-success-or-failure-of-your-ux-design/) - How Do You Measure the Success (or Failure) - of Your UX Design?.
 - [UX Metrix](http://www.dtelepathy.com/ux-metrics/#intro) - How to Choose the Right UX Metrics for Your Product.
 - [Lookback](https://lookback.io/) - Simple, powerful user research.
@@ -78,26 +80,26 @@ Feel free to [add something interesting](contributing.md) by pull request.
 
 ## UX
 #### Guidelines
-- [The UX Bookmark](http://www.theuxbookmark.com/) - A collection of the best UX websites from across the globe.
+- [The UX Bookmark](http://www.theuxbookmark.com/) - Collection of the best UX websites from across the globe.
 - [Gov.Uk](https://www.gov.uk/service-manual/) - Helping government teams create and run great digital services.
-- [Methods 18F](https://methods.18f.gov/) - A collection of tools to bring human-centered design into your project.
+- [Methods 18F](https://methods.18f.gov/) - Collection of tools to bring human-centered design into your project.
 - [Guides 18F](https://guides.18f.gov/) - 18F Guides is the repository for best practices across our teams.
 - [Usability.Gov](https://www.usability.gov/) - Improving the User Experience.
 - [Medial Lab Amsterdam](http://medialabamsterdam.com/toolkit/) - Design method toolkit.
-- [Design Kit IDEO](http://www.designkit.org/methods) - A step-by-step guide to unleashing your creativity.
+- [Design Kit IDEO](http://www.designkit.org/methods) - Step-by-step guide to unleashing your creativity.
 - [Gamestorming](http://gamestorming.com/) - Gamestorming is a set of co-creation tools used by innovators around the world.
 #### Articles
 - [UX Magazine](http://uxmag.com/) - UX Magazine is a free community resource exploring all facets of experience design.
 - [UX Both](http://www.uxbooth.com/) - The UX Booth is a publication by and for the user experience community.
 - [UX Mastery](http://uxmastery.com/) - We help user experience professionals get started and get better.
 - [UX Myths](http://uxmyths.com/) - Build your product based on evidence, not false beliefs.
-- [A List Apart](https://alistapart.com/) - A List Apart explores the design, development, and meaning of web content.
-- [52 Weeks of UX](http://52weeksofux.com/) - A discourse on the process of designing for real people.
+- [A List Apart](https://alistapart.com/) - List Apart explores the design, development, and meaning of web content.
+- [52 Weeks of UX](http://52weeksofux.com/) - Discourse on the process of designing for real people.
 - [UX Pin](https://www.uxpin.com/studio/) - Guides, articles and ebooks that explore all facets of UX Design.
-- [The IxD Library](http://theixdlibrary.com/) - A collection of materials related to Interaction Design.
+- [The IxD Library](http://theixdlibrary.com/) - Collection of materials related to Interaction Design.
 - [LukeW](https://www.lukew.com/ff) - Publications on the critical details and big picture behind digital product design.
 - [NN Group](https://www.nngroup.com/articles/) - Evidence-Based User Experience Research, Training, and Consulting.
-- [Cooper](https://www.cooper.com/journal/) - A blog about design, business, and the world we live in.
+- [Cooper](https://www.cooper.com/journal/) - Blog about design, business, and the world we live in.
 - [Information Design](http://www.informationdesign.org/) - InfoDesign Hand-picked since 1997.
 - [Intercom](https://blog.intercom.com/) - Design, Customer Success, & Startup Blog.
 - [UXDesign.cc](https://uxdesign.cc/) - User Experience, Usability, Product Design. Follow the UXDesign.cc.
@@ -119,14 +121,14 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Pttrns](https://pttrns.com/) - The mother of all design resources.
 - [Call To Idea](http://www.calltoidea.com/) - Light up your imagination!.
 - [Android Niceties](http://androidniceties.tumblr.com/) - Aiming to provide inspiration and insight into Android UI conventions.
-- [Lovely UI](http://www.lovelyui.com/) - A collection of mobile UI elements.
-- [Brian Lovin](http://www.brianlovin.com/) - A visual exploration of the best products.
+- [Lovely UI](http://www.lovelyui.com/) - Collection of mobile UI elements.
+- [Brian Lovin](http://www.brianlovin.com/) - Visual exploration of the best products.
 - [Great Apps Timeline](http://greatappstimeline.xyz/) - See how the LOOK of some of the great apps changed over time.
 - [Inspired UI](http://inspired-ui.com/) - iOS Mobile Apps Design Patterns.
 - [Sloppy UI](http://sloppyui.tumblr.com/) - It's all about intellectual honesty, not trolling.
 #### Tools
 - [Pattern Lab](http://patternlab.io/) - Create atomic design systems with Pattern Lab.
-- [Huge](https://hugeinc.github.io/styleguide/index.html) - A tool to make creating and maintaining styleguides easy.
+- [Huge](https://hugeinc.github.io/styleguide/index.html) - Tool to make creating and maintaining styleguides easy.
 - [Stylify Me](http://stylifyme.com/) - This tool allows the designer to research sites efficiently without the need to inspect each element.
 - [Density Bucket](http://density.brdrck.me/) - Density Converter.
 - [iDetailAid](http://labs.rampinteractive.co.uk/android_dp_px_calculator/) - Android DP / PX converter.
@@ -136,10 +138,10 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Design Principles FTW](http://www.designprinciplesftw.com/) - The biggest collection of Design Principles on the Internet.
 - [Find Guidelines](http://findguidelin.es/) - The fastest way to brand assets.
 - [Style Guides](http://styleguides.io/) - Website Style Guide Resources.
-- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - A curated list of design systems, patterns libraries, and everything in between.
+- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between.
 - [Instant Logo Search](http://instantlogosearch.com/) - Search & download thousands of logos instantly.
 - [Logo Book](http://www.logobook.com/) - Discover the worlds finest logos, symbols & trademarks.
-- [Awesome Sketch](https://github.com/diessica/awesome-sketch) - A curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
+- [Awesome Sketch](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
 #### Icons
 - [Use Iconic](https://useiconic.com/) - Meet Iconic. The definitive icon set designed for the modern web.
 - [Icon Finder](https://www.iconfinder.com/) - Search through 1,739,045 icons or browse 42,226 icon sets.
@@ -147,7 +149,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [The Noun Project](https://thenounproject.com/) - Icons for everything.
 - [Iconmonstr](https://iconmonstr.com/) - Discover 3847+ free simple icons in 263 collections.
 #### Font Foundries
-- [Open Foundry](http://open-foundry.com/) - A new platform for open-source fonts in a noise-free environment.
+- [Open Foundry](http://open-foundry.com/) - New platform for open-source fonts in a noise-free environment.
 - [Use & Modify](http://usemodify.com/) - Provide a contemporary set of fonts distributed under libre or open source licences, hand picked by a typography and free culture lover.
 - [Font Fabric](http://www.fontfabric.com/) - Fontfabric is an independent type foundry.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free Font Utopia.
@@ -155,14 +157,14 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Identyfont](http://www.identifont.com/index.html) - Identify a font by answering questions about key features.
 #### Colors
 - [Coolors](https://coolors.co/) - The super fast color schemes generator!.
-- [Colour Lovers](http://www.colourlovers.com/) - A creative community.
+- [Colour Lovers](http://www.colourlovers.com/) - Creative community.
 - [Color Hunt](http://colorhunt.co/) - Color Hunt is a social platform for everyone who love colors.
-- [Brand Colors](http://brand-colors.com/) - A 1100+ color collection available in sass, less, stylus and css.
+- [Brand Colors](http://brand-colors.com/) - 1100+ color collection available in sass, less, stylus and css.
 #### Stock Images
 - [Unsplash](https://unsplash.com/) - Free (do whatever you want) - high-resolution photos.
 - [StockSnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 - [Pixbay](https://pixabay.com/) - Free images and videos you can use anywhere.
-- [Jay Mantry](http://jaymantri.com/) - free pics. do anything (CC0) -. make magic.
+- [Jay Mantry](http://jaymantri.com/) - Free pics (CC0).
 - [The Stock](http://thestocks.im/) - The best royalty free stock photos are delivered now along with videos, audios, icons, fonts and colors.
 - [Get Refe](http://getrefe.tumblr.com/) - Royalty-free, high-quality, Real Life photos.
 - [ISO Republic](http://isorepublic.com/) - ISO Republic provides free stock photos for creative professionals.
@@ -175,8 +177,8 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Polar](https://photoeditor.polarr.co/) - Photo Editor.
 - [Licecap](http://www.cockos.com/licecap/) - Simple animated screen captures.
 - [Hand Brake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
-- [Skala Color](https://bjango.com/mac/skalacolor/) - An extraordinary color picker for designers and developers.
-- [Font Picker](http://www.fontpicker.io/) - A webfont library for your browser.
+- [Skala Color](https://bjango.com/mac/skalacolor/) - Extraordinary color picker for designers and developers.
+- [Font Picker](http://www.fontpicker.io/) - Webfont library for your browser.
 - [Font Reach](http://www.fontreach.com/) - FontReach scans the top million sites to show font usage across the web.
 
 ## Prototype
@@ -191,7 +193,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.
 - [Flinto](https://www.flinto.com/) - Flinto lets designers quickly make interactive prototypes of their mobile, desktop, or web apps.
 - [Origami Studio](http://origami.design/) - Explore, iterate, and test your ideas.
-- [Framer](https://framer.com/) - An all-in-one design workflow.
+- [Framer](https://framer.com/) - All-in-one design workflow.
 - [Form](http://relativewave.com/form/) - Build and customize native prototypes directly on device.
 - [Proto](https://proto.io/) - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should. No coding required.
 - [Fuse](https://www.fusetools.com/) - Create better native apps for iOS and Android with a new breed of development tools.
@@ -209,7 +211,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Viget](https://www.viget.com/articles/color-contrast) - Color Contrast for Better Readability.
 #### Tools
 - [WAVE](http://wave.webaim.org/) - Web Accessibility Evaluation Tool.
-- [Contrast Ratio](http://6220119.github.io/contrast-ratio/#/black-on-white) - A tool to calculate the contrast ratio between any two valid CSS colors.
+- [Contrast Ratio](http://6220119.github.io/contrast-ratio/#/black-on-white) - Aool to calculate the contrast ratio between any two valid CSS colors.
 - [Snook](https://snook.ca/technical/colour_contrast/colour.html#fg=515A5F,bg=FFFFFF) - Colour Contrast Check.
 - [CanvasFlip](https://www.canvasflip.com/color-blind.php) - Colorblind simulator for Designers.
 
