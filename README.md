@@ -1,4 +1,4 @@
-# Awesome Product Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Product Design [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <a href="http://teogagliano.co">
   <img src="https://rawgit.com/teoga/product-design-bookmarks/master/images/pdb_img.svg" align="right" width="100">
@@ -76,7 +76,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Typefrom](https://www.typeform.com/) - Goodbye forms. Hello typeforms.
 - [Etnio](https://ethn.io/) - Intercept Real People for User Research.
 - [Calendly](https://calendly.com/) - Calendly helps you schedule meetings without the back-and-forth emails.
-- [Better Design](https://betterdesign.io/) - Create a post to get feedback on your design, copy or ideas.
 
 ## UX
 #### Guidelines
