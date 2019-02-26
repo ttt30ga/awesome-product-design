@@ -1,10 +1,12 @@
 # Awesome Product Design [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-<a href="http://teogagliano.co">
+<a href="https://en.wikipedia.org/wiki/Digital_product_design">
   <img src="https://rawgit.com/teoga/product-design-bookmarks/master/images/pdb_img.svg" align="right" width="100">
 </a>
 
 > A collection of bookmarks, resources, articles for product designers.
+
+[Digital product design] (https://en.wikipedia.org/wiki/Digital_product_design) is an iterative design process to solve a functional problem with a formal solution. A digital product designer identifies a real problem, offers the best possible solution, and launch it to a market that is showing demand for that particular solution.
 
 Feel free to [add something interesting](contributing.md) by pull request.
 
