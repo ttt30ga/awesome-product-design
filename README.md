@@ -124,7 +124,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Android Niceties](http://androidniceties.tumblr.com/) - Aiming to provide inspiration and insight into Android UI conventions.
 - [Lovely UI](http://www.lovelyui.com/) - Collection of mobile UI elements.
 - [Brian Lovin](http://www.brianlovin.com/) - Visual exploration of the best products.
-- [Great Apps Timeline](http://greatappstimeline.xyz/) - See how the LOOK of some of the great apps changed over time.
 - [Inspired UI](http://inspired-ui.com/) - iOS Mobile Apps Design Patterns.
 - [Sloppy UI](http://sloppyui.tumblr.com/) - It's all about intellectual honesty, not trolling.
 #### Tools
