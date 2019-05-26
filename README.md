@@ -112,6 +112,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 
 ## UI
 #### Guidelines
+- [Ant Design](http://ant.design) - An UI design language for enterprise applications.
 - [iOS Guidelines](https://developer.apple.com/design/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
 - [Google Material](https://material.io/) - Material Design is a unified system that combines theory, resources, and tools for crafting digital experiences.
 - [Google Design](https://design.google.com/) - Google Design is a cooperative effort led by a group of designers, writers, and developers at Google.
