@@ -156,6 +156,8 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free Font Utopia.
 - [Play Type](https://playtype.com/) - Browse through our selection of more than a hundred fonts and nearly 500 different font weights.
 - [Identyfont](http://www.identifont.com/index.html) - Identify a font by answering questions about key features.
+#### Typography
+- [NN Group](https://www.nngroup.com/articles/typography-terms-ux/) - Typography Terms Cheat Sheet.
 #### Colors
 - [Coolors](https://coolors.co/) - The super fast color schemes generator!.
 - [Colour Lovers](http://www.colourlovers.com/) - Creative community.
