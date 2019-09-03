@@ -149,6 +149,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [We Love Icon Font](http://weloveiconfonts.com/) - This is a free & open source icon fonts hosting service.
 - [The Noun Project](https://thenounproject.com/) - Icons for everything.
 - [Iconmonstr](https://iconmonstr.com/) - Discover 3847+ free simple icons in 263 collections.
+- [iconscout.com](https://iconscout.com/) - Search through 2 Million plus royalty-free Icons and Images from 400+ Contributors.
 #### Font Foundries
 - [Open Foundry](http://open-foundry.com/) - New platform for open-source fonts in a noise-free environment.
 - [Use & Modify](http://usemodify.com/) - Provide a contemporary set of fonts distributed under libre or open source licences, hand picked by a typography and free culture lover.
