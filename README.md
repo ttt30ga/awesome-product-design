@@ -220,6 +220,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Contrast Ratio](http://6220119.github.io/contrast-ratio/#/black-on-white) - A tool to calculate the contrast ratio between any two valid CSS colors.
 - [Snook](https://snook.ca/technical/colour_contrast/colour.html#fg=515A5F,bg=FFFFFF) - Colour Contrast Check.
 - [CanvasFlip](https://www.canvasflip.com/color-blind.php) - Colorblind simulator for Designers.
+- [WhoCanUse](http://whocanuse.com/) - tool to check how color contrast can affect different people with visual impairments.
 
 ## Writing
 - [Google trends](https://trends.google.com/trends/) - Stories trending now.
