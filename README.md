@@ -124,14 +124,12 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Call To Idea](http://www.calltoidea.com/) - Light up your imagination!.
 - [Android Niceties](http://androidniceties.tumblr.com/) - Aiming to provide inspiration and insight into Android UI conventions.
 - [Lovely UI](http://www.lovelyui.com/) - Collection of mobile UI elements.
-- [Brian Lovin](http://www.brianlovin.com/) - Visual exploration of the best products.
 - [Inspired UI](http://inspired-ui.com/) - iOS Mobile Apps Design Patterns.
 - [Sloppy UI](http://sloppyui.tumblr.com/) - It's all about intellectual honesty, not trolling.
 #### Tools
 - [Pattern Lab](http://patternlab.io/) - Create atomic design systems with Pattern Lab.
 - [Huge](https://hugeinc.github.io/styleguide/index.html) - Tool to make creating and maintaining styleguides easy.
 - [Stylify Me](http://stylifyme.com/) - This tool allows the designer to research sites efficiently without the need to inspect each element.
-- [Density Bucket](http://density.brdrck.me/) - Density Converter.
 - [iDetailAid](http://labs.rampinteractive.co.uk/android_dp_px_calculator/) - Android DP / PX converter.
 
 ## Visual
@@ -182,7 +180,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Licecap](http://www.cockos.com/licecap/) - Simple animated screen captures.
 - [Hand Brake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [Skala Color](https://bjango.com/mac/skalacolor/) - Extraordinary color picker for designers and developers.
-- [Font Picker](http://www.fontpicker.io/) - Webfont library for your browser.
 - [Font Reach](http://www.fontreach.com/) - FontReach scans the top million sites to show font usage across the web.
 
 ## Prototype
