@@ -56,7 +56,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 ###### Storyboard
 - [UX Magazine](https://uxmag.com/articles/storyboarding-in-the-software-design-process) - Storyboarding in the Software Design Process.
 - [Medium](https://uxplanet.org/storyboarding-in-ux-design-b9d2e18e5fab) - Storyboarding in UX Design.
-- [Johnny Holland](https://johnnyholland.org/2011/10/storyboarding-ux-part-1-an-introduction/) - Storyboarding & UX.
 - [NN Group](https://www.nngroup.com/articles/customer-journey-mapping/) - When and How to Create Customer Journey Maps.
 - [UX Lady](https://www.ux-lady.com/experience-maps-user-journey-and-more-exp-map-layout/) - Experience maps, user journeys and more.
 - [Smashing Magazine](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/) - All You Need To Know About Customer Journey Mapping.
@@ -68,16 +67,11 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [User Testing](https://www.usertesting.com/) - Unlock customer insights and increase your revenue.
 - [Optimal Workshop](https://www.optimalworkshop.com/) - User Research Platform that helps you and your team make design decisions with confidence.
 - [Measure Success](https://www.sitepoint.com/how-do-you-measure-the-success-or-failure-of-your-ux-design/) - How Do You Measure the Success (or Failure) - of Your UX Design?.
-- [UX Metrix](https://www.dtelepathy.com/ux-metrics/#intro) - How to Choose the Right UX Metrics for Your Product.
 - [Lookback](https://lookback.io/) - Simple, powerful user research.
-- [Appsee](https://www.appsee.com/) - Appsee's app analytics platform provides an in-depth analysis of your users' behavior.
 - [Full Story](https://www.fullstory.com/) - What do you want to know about your customer experience?.
 - [Desinion](https://www.desinion.com/) - Make smart and informed design decisions for your company, or your client's company.
 - [Survey Monkey](https://www.surveymonkey.com/) - Turn instincts into insights.
-- [Google Surveys](https://www.google.com/analytics/surveys/#?modal_active=none) - Make better decisions with market research.
-- [Typefrom](https://www.typeform.com/) - Goodbye forms. Hello typeforms.
 - [Etnio](https://ethn.io/) - Intercept Real People for User Research.
-- [Calendly](https://calendly.com/) - Calendly helps you schedule meetings without the back-and-forth emails.
 
 ## UX
 #### Guidelines
@@ -100,7 +94,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [The IxD Library](https://theixdlibrary.com/) - Collection of materials related to Interaction Design.
 - [LukeW](https://www.lukew.com/ff) - Publications on the critical details and big picture behind digital product design.
 - [NN Group](https://www.nngroup.com/articles/) - Evidence-Based User Experience Research, Training, and Consulting.
-- [Cooper](https://www.cooper.com/journal/) - Blog about design, business, and the world we live in.
 - [Information Design](https://www.informationdesign.org/) - InfoDesign Hand-picked since 1997.
 - [Intercom](https://blog.intercom.com/) - Design, Customer Success, & Startup Blog.
 - [UXDesign.cc](https://uxdesign.cc/) - User Experience, Usability, Product Design. Follow the UXDesign.cc.
@@ -130,20 +123,13 @@ Feel free to [add something interesting](contributing.md) by pull request.
 #### Tools
 - [Pattern Lab](https://patternlab.io/) - Create atomic design systems with Pattern Lab.
 - [Huge](https://hugeinc.github.io/styleguide/index.html) - Tool to make creating and maintaining styleguides easy.
-- [Stylify Me](https://stylifyme.com/) - This tool allows the designer to research sites efficiently without the need to inspect each element.
-- [Density Bucket](https://density.brdrck.me/) - Density Converter.
-- [iDetailAid](https://labs.rampinteractive.co.uk/android_dp_px_calculator/) - Android DP / PX converter.
 - [Figma Bootstrap 5 UI Kit](https://themeselection.com/products/free-figma-bootstrap-ui-kit/) - UI Kit comprising 300+ organized Bootstrap 5 components built with atomic design system & auto layout. 
 - [Sketch Bootstrap 5 UI Kit](https://themeselection.com/products/free-sketch-bootstrap-ui-kit/) - UI Kit comprising 300+ organized Bootstrap 5 components built with atomic design system & smart layout.
 
 ## Visual
 #### Resources
 - [Design Principles FTW](https://www.designprinciplesftw.com/) - The biggest collection of Design Principles on the Internet.
-- [Find Guidelines](https://findguidelin.es/) - The fastest way to brand assets.
-- [Style Guides](https://styleguides.io/) - Website Style Guide Resources.
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between.
-- [Instant Logo Search](https://instantlogosearch.com/) - Search & download thousands of logos instantly.
-- [Logo Book](https://www.logobook.com/) - Discover the worlds finest logos, symbols & trademarks.
 - [Awesome Sketch](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
 #### Icons
 - [Use Iconic](https://useiconic.com/) - Meet Iconic. The definitive icon set designed for the modern web.
@@ -170,7 +156,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [StockSnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 - [Pixbay](https://pixabay.com/) - Free images and videos you can use anywhere.
 - [Jay Mantry](https://jaymantri.com/) - Free pics (CC0).
-- [The Stock](https://thestocks.im/) - The best royalty free stock photos are delivered now along with videos, audios, icons, fonts and colors.
 - [Get Refe](https://getrefe.tumblr.com/) - Royalty-free, high-quality, Real Life photos.
 - [ISO Republic](https://isorepublic.com/) - ISO Republic provides free stock photos for creative professionals.
 - [All The Free Stock](https://allthefreestock.com/) - Get all the Free Stock Images, Videos, Music and Icons in one location.
@@ -182,9 +167,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Polarr](https://photoeditor.polarr.co/) - Photo Editor.
 - [Licecap](https://www.cockos.com/licecap/) - Simple animated screen captures.
 - [Hand Brake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
-- [Skala Color](https://bjango.com/mac/skalacolor/) - Extraordinary color picker for designers and developers.
-- [Font Picker](https://www.fontpicker.io/) - Webfont library for your browser.
-- [Font Reach](https://www.fontreach.com/) - FontReach scans the top million sites to show font usage across the web.
 
 ## Prototype
 #### Articles
@@ -199,9 +181,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Flinto](https://www.flinto.com/) - Flinto lets designers quickly make interactive prototypes of their mobile, desktop, or web apps.
 - [Origami Studio](https://origami.design/) - Explore, iterate, and test your ideas.
 - [Framer](https://framer.com/) - All-in-one design workflow.
-- [Form](https://relativewave.com/form/) - Build and customize native prototypes directly on device.
 - [Proto](https://proto.io/) - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should. No coding required.
-- [Fuse](https://www.fusetools.com/) - Create better native apps for iOS and Android with a new breed of development tools.
 - [ProtoPie](https://www.protopie.io) - ProtoPie is the easiest prototyping tool to build advanced, highly interactive prototypes.
 
 #### Tools
@@ -215,12 +195,10 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Medium](https://medium.com/@GarronEngstrom/accessibility-101-56f87f3d726e) - Accessibility for designers. Mind your RGBs.
 - [Web Credible](https://www.webcredible.com/blog/visual-design-and-colour-accessibility/) - Visual design and color accessibility.
 - [A List Apart](https://alistapart.com/blog/post/easy-color-contrast-testing) - Easy Color Contrast Testing.
-- [Viget](https://www.viget.com/articles/color-contrast) - Color Contrast for Better Readability.
 #### Tools
 - [WAVE](https://wave.webaim.org/) - Web Accessibility Evaluation Tool.
 - [Contrast Ratio](https://6220119.github.io/contrast-ratio/#/black-on-white) - A tool to calculate the contrast ratio between any two valid CSS colors.
 - [Snook](https://snook.ca/technical/colour_contrast/colour.html#fg=515A5F,bg=FFFFFF) - Colour Contrast Check.
-- [CanvasFlip](https://www.canvasflip.com/color-blind.php) - Colorblind simulator for Designers.
 
 ## Writing
 - [Google trends](https://trends.google.com/trends/) - Stories trending now.
@@ -239,10 +217,8 @@ Feel free to [add something interesting](contributing.md) by pull request.
 
 ## IoT
 #### Articles
-- [IoT Manifesto](https://www.iotmanifesto.com/) - Guidelines for responsible design in a connected world.
 - [IoT Weekly News](https://iotweeklynews.com/) - Subscribe to hand picked articles by Justin Grammens on the Internet of Things.
 - [IoT Agenda](https://internetofthingsagenda.techtarget.com/feature/Design-an-IoT-user-experience-not-an-IoT-product) - Design an IoT user experience, not an IoT product.
 - [IoT For All](https://iot-for-all.com/designing-the-internet-of-things/) - Designing the Internet of Things – 5 Key Principles.
 #### Tools
-- [Node RED](https://nodered.org/) - Flow-based programming for the Internet of Things.
-- [Noodl](https://www.getnoodl.com/) - Digital Experience Design Platform.
+- [Node RED](https://nodered.org/) - Low-based programming for the Internet of Things.
