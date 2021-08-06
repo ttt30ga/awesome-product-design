@@ -133,6 +133,8 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Stylify Me](http://stylifyme.com/) - This tool allows the designer to research sites efficiently without the need to inspect each element.
 - [Density Bucket](http://density.brdrck.me/) - Density Converter.
 - [iDetailAid](http://labs.rampinteractive.co.uk/android_dp_px_calculator/) - Android DP / PX converter.
+- [Figma Bootstrap 5 UI Kit](https://themeselection.com/products/free-figma-bootstrap-ui-kit/) - UI Kit comprising 300+ organized Bootstrap 5 components built with atomic design system & auto layout. 
+- [Sketch Bootstrap 5 UI Kit](https://themeselection.com/products/free-sketch-bootstrap-ui-kit/) - UI Kit comprising 300+ organized Bootstrap 5 components built with atomic design system & smart layout.
 
 ## Visual
 #### Resources
