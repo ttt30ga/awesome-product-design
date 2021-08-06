@@ -179,7 +179,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 #### Stock Videos
 - [Vimeo](https://vimeo.com/channels/freestockfootage/) - Royalty Free Stock Video for Free Personal, Corporate or Commercial Use.
 #### Tools
-- [Pattern Lab](http://patternlab.io/) - Create atomic design systems with Pattern Lab.
 - [Polar](https://photoeditor.polarr.co/) - Photo Editor.
 - [Licecap](http://www.cockos.com/licecap/) - Simple animated screen captures.
 - [Hand Brake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
@@ -213,7 +212,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 #### Articles
 - [Gov.Uk](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) - Making your service accessible: an introduction.
 - [Smashing Magazine](https://www.smashingmagazine.com/2014/10/color-contrast-tips-and-tools-for-accessibility/) - Color Contrast And Why You Should Rethink It.
-- [Medium](https://medium.com/@GarronEngstrom/accessibility-101-56f87f3d726e) - Accessibility for designers. Mind your RGB’s.
+- [Medium](https://medium.com/@GarronEngstrom/accessibility-101-56f87f3d726e) - Accessibility for designers. Mind your RGBs.
 - [Web Credible](https://www.webcredible.com/blog/visual-design-and-colour-accessibility/) - Visual design and color accessibility.
 - [A List Apart](https://alistapart.com/blog/post/easy-color-contrast-testing) - Easy Color Contrast Testing.
 - [Viget](https://www.viget.com/articles/color-contrast) - Color Contrast for Better Readability.
