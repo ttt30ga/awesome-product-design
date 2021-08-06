@@ -179,7 +179,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 #### Stock Videos
 - [Vimeo](https://vimeo.com/channels/freestockfootage/) - Royalty Free Stock Video for Free Personal, Corporate or Commercial Use.
 #### Tools
-- [Polar](https://photoeditor.polarr.co/) - Photo Editor.
+- [Polarr](https://photoeditor.polarr.co/) - Photo Editor.
 - [Licecap](http://www.cockos.com/licecap/) - Simple animated screen captures.
 - [Hand Brake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [Skala Color](https://bjango.com/mac/skalacolor/) - Extraordinary color picker for designers and developers.
