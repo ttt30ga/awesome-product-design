@@ -247,6 +247,3 @@ Feel free to [add something interesting](contributing.md) by pull request.
 #### Tools
 - [Node RED](http://nodered.org/) - Flow-based programming for the Internet of Things.
 - [Noodl](http://www.getnoodl.com/) - Digital Experience Design Platform.
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
