@@ -85,7 +85,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Gamestorming](https://gamestorming.com/) - Gamestorming is a set of co-creation tools used by innovators around the world.
 #### Articles
 - [UX Magazine](https://uxmag.com/) - UX Magazine is a free community resource exploring all facets of experience design.
-- [UX Both](https://www.uxbooth.com/) - The UX Booth is a publication by and for the user experience community.
+- [UX Booth](https://www.uxbooth.com/) - The UX Booth is a publication by and for the user experience community.
 - [UX Mastery](https://uxmastery.com/) - We help user experience professionals get started and get better.
 - [UX Myths](https://uxmyths.com/) - Build your product based on evidence, not false beliefs.
 - [A List Apart](https://alistapart.com/) - List Apart explores the design, development, and meaning of web content.
