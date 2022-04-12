@@ -1,8 +1,10 @@
 # Awesome Product Design [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-<a href="https://en.wikipedia.org/wiki/Digital_product_design">
-  <img src="https://rawgit.com/teoga/product-design-bookmarks/master/images/pdb_img.svg" align="right" width="100">
-</a>
+<div align="center" style="margin: 12px">
+  <a href="https://en.wikipedia.org/wiki/Digital_product_design">
+    <img src="./images/apd-icon.png" width="100">
+  </a>
+</div>
 
 > A collection of bookmarks, resources, articles for product designers.
 
