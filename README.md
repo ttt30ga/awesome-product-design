@@ -153,6 +153,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Colour Lovers](https://www.colourlovers.com/) - Creative community.
 - [Color Hunt](https://colorhunt.co/) - Color Hunt is a social platform for everyone who love colors.
 - [Brand Colors](https://brand-colors.com/) - 1100+ color collection available in sass, less, stylus and css.
+- [Branition Colors](https://branition.com/colors) - Hand-curated collection of color palettes best fitted for branding.
 #### Stock Images
 - [Unsplash](https://unsplash.com/) - Free (do whatever you want) - high-resolution photos.
 - [StockSnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
