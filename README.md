@@ -29,6 +29,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Smashing Magazine](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/) - The UX Research Plan That Stakeholders Love.
 - [NN Group](https://www.nngroup.com/articles/pm-research-plan/) - Project Management for User Research: The Plan.
 - [Interaction Design](https://www.interaction-design.org/literature/article/a-one-page-user-research-plan) - One Page User Research Plan.
+- [Branding5](https://www.branding5.com/) - Make a brand positioning as a basis for your designs.
 ###### User Interview
 - [NN Group](https://www.nngroup.com/articles/interviewing-users/) - Despite many weaknesses, interviews are a valuable method for exploratory user research.
 - [UXDesign.cc](https://uxdesign.cc/how-to-get-the-most-out-of-user-interviews-c5d0cd4499b5) - How to Get the Most Out of User Interviews.
