@@ -25,6 +25,8 @@ Feel free to [add something interesting](contributing.md) by pull request.
 
 ## Research
 #### Methods
+###### Decision Making
+- [Untools](https://untools.co) - Thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 ###### Research Plan
 - [Smashing Magazine](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/) - The UX Research Plan That Stakeholders Love.
 - [NN Group](https://www.nngroup.com/articles/pm-research-plan/) - Project Management for User Research: The Plan.
