@@ -183,6 +183,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Microinteractions](https://microinteractions.com/) - Designing with Details.
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
 #### Softwares
+- [Visily](https://www.visily.ai) - The simplest collaborative UI design software with an intuitive interface, rich UI library, and AI features.
 - [Pop](https://marvelapp.com/pop/) - POP helps you transform your pen and paper ideas into an interactive iPhone or Android prototype.
 - [Invision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform.
 - [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.
