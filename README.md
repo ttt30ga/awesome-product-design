@@ -170,6 +170,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Polarr](https://photoeditor.polarr.co/) - Photo Editor.
 - [Licecap](https://www.cockos.com/licecap/) - Simple animated screen captures.
 - [Hand Brake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [BulkPicTools](https://bulkpictools.com) - Privacy-first, browser-side bulk image optimizer for compression and format conversion.
 
 ## Prototype
 #### Articles
