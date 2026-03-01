@@ -200,6 +200,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [A List Apart](https://alistapart.com/blog/post/easy-color-contrast-testing) - Easy Color Contrast Testing.
 #### Tools
 - [WAVE](https://wave.webaim.org/) - Web Accessibility Evaluation Tool.
+- [PageGuard](https://pageguard.org) - Free website health scanner that audits accessibility (WCAG 2.1), SEO, performance, and best practices — useful for designers verifying ADA compliance before launch.
 - [Contrast Ratio](https://6220119.github.io/contrast-ratio/#/black-on-white) - A tool to calculate the contrast ratio between any two valid CSS colors.
 - [Snook](https://snook.ca/technical/colour_contrast/colour.html#fg=515A5F,bg=FFFFFF) - Colour Contrast Check.
 
