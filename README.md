@@ -147,6 +147,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Play Type](https://playtype.com/) - Browse through our selection of more than a hundred fonts and nearly 500 different font weights.
 #### Typography
 - [NN Group](https://www.nngroup.com/articles/typography-terms-ux/) - Typography Terms Cheat Sheet.
+- [FontsWiki](https://fontswiki.com/): Free typography resource with font downloads, pairing guides, and font-in-use references for logos, films, games, and design projects.
 #### Colors
 - [Coolors](https://coolors.co/) - The super fast color schemes generator!.
 - [Colour Lovers](https://www.colourlovers.com/) - Creative community.
