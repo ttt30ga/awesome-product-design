@@ -170,6 +170,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Polarr](https://photoeditor.polarr.co/) - Photo Editor.
 - [Licecap](https://www.cockos.com/licecap/) - Simple animated screen captures.
 - [Hand Brake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [this AI background remover with a free tier and clear monthly limits](https://free-background-remover.com) - Watermark-free transparent PNGs for product design mockups, with a small monthly free tier.
 
 ## Prototype
 #### Articles
