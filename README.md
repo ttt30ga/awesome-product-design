@@ -153,6 +153,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Color Hunt](https://colorhunt.co/) - Color Hunt is a social platform for everyone who love colors.
 - [Atmos](https://atmos.style/) - Everything you need to create color palettes
 - [Branition Colors](https://branition.com/colors) - Hand-curated collection of color palettes best fitted for branding.
+- [TinyTools Color Palette Generator](https://tinytools-smoky.vercel.app/) - Free browser-based color palette generator. Pick a base color and get harmonious palette variations instantly. No signup.
 
 #### Stock Images
 - [Unsplash](https://unsplash.com/) - Free (do whatever you want) - high-resolution photos.
