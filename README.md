@@ -152,6 +152,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Colour Lovers](https://www.colourlovers.com/) - Creative community.
 - [Color Hunt](https://colorhunt.co/) - Color Hunt is a social platform for everyone who love colors.
 - [Atmos](https://atmos.style/) - Everything you need to create color palettes
+- [Mini-Tools.uk Image Color Picker](https://mini-tools.uk/color-picker) - Pick colors from images or screenshots, crop small areas, and copy HEX, RGB or HSL values.
 - [Branition Colors](https://branition.com/colors) - Hand-curated collection of color palettes best fitted for branding.
 
 #### Stock Images
