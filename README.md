@@ -168,6 +168,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Vimeo](https://vimeo.com/channels/freestockfootage/) - Royalty Free Stock Video for Free Personal, Corporate or Commercial Use.
 #### Tools
 - [Polarr](https://photoeditor.polarr.co/) - Photo Editor.
+- [igly.ai](https://igly.ai) - AI image editor for background removal, inpainting, upscaling, generative fill, and product visuals.
 - [Licecap](https://www.cockos.com/licecap/) - Simple animated screen captures.
 - [Hand Brake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
