@@ -19,7 +19,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Visual](#visual)
 - [Prototype](#prototype)
 - [Accessibility](#accessibility)
-- [Writing](#writing)
+- [Writing](#writing
 - [Data](#data)
 - [IoT](#iot)
 
@@ -189,6 +189,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 
 #### Tools
 - [Lottie](https://airbnb.design/lottie/) - Easily add high-quality animation to any native app.
+- [IconKing](https://iconking.net) - Free browser-based Lottie animation viewer, color editor, and format converter. Preview .json and .lottie files, edit colors across all layers. No signup required.
 - [Keynotopia](https://keynotopia.com/) - Keynotopia transforms Keynote and PowerPoint into the best rapid prototyping tools for creating mobile, web and desktop UI mockups.
 
 ## Accessibility
