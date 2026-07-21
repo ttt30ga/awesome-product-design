@@ -123,6 +123,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Lovely UI](https://www.lovelyui.com/) - Collection of mobile UI elements.
 - [Brian Lovin](https://www.brianlovin.com/) - Visual exploration of the best products.
 - [Sloppy UI](https://sloppyui.tumblr.com/) - It's all about intellectual honesty, not trolling.
+- [UIZZE](https://uizze.com) - Search 800,000+ real web and iOS product screens for interface references.
 #### Tools
 - [Pattern Lab](https://patternlab.io/) - Create atomic design systems with Pattern Lab.
 - [Huge](https://hugeinc.github.io/styleguide/index.html) - Tool to make creating and maintaining styleguides easy.
