@@ -109,7 +109,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [UX Stackexchange](https://ux.stackexchange.com/) - UX Stack Exchange is a question and answer site.
 
 ## UI
-- [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification): Free vendor-neutral contract for design tokens, component states, responsive rules, accessibility, motion, and production review in AI-assisted interface projects.
 #### Guidelines
 - [Ant Design](https://ant.design) - An UI design language for enterprise applications.
 - [iOS Guidelines](https://developer.apple.com/design/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
@@ -129,6 +128,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Huge](https://hugeinc.github.io/styleguide/index.html) - Tool to make creating and maintaining styleguides easy.
 - [Figma Bootstrap 5 UI Kit](https://themeselection.com/products/free-figma-bootstrap-ui-kit/) - UI Kit comprising 300+ organized Bootstrap 5 components built with atomic design system & auto layout. 
 - [Sketch Bootstrap 5 UI Kit](https://themeselection.com/products/free-sketch-bootstrap-ui-kit/) - UI Kit comprising 300+ organized Bootstrap 5 components built with atomic design system & smart layout.
+- [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification): Free vendor-neutral contract for design tokens, component states, responsive rules, accessibility, motion, and production review in AI-assisted interface projects.
 
 ## Visual
 #### Resources
