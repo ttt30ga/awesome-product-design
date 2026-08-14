@@ -153,7 +153,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Color Hunt](https://colorhunt.co/) - Color Hunt is a social platform for everyone who love colors.
 - [Atmos](https://atmos.style/) - Everything you need to create color palettes
 - [Branition Colors](https://branition.com/colors) - Hand-curated collection of color palettes best fitted for branding.
-
+- [Paletzy](https://paletzy.com): Free image color picker and palette generator for extracting colors from images.
 #### Stock Images
 - [Unsplash](https://unsplash.com/) - Free (do whatever you want) - high-resolution photos.
 - [StockSnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
