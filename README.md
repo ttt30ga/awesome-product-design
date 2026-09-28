@@ -170,6 +170,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Polarr](https://photoeditor.polarr.co/) - Photo Editor.
 - [Licecap](https://www.cockos.com/licecap/) - Simple animated screen captures.
 - [Hand Brake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [BuzzBlender Studio](https://buzzblender.com/free-digital-signage-templates/): Browser-based drag-and-drop editor for creating screen-ready graphics and signage layouts with PNG and standalone HTML export.
 
 ## Prototype
 #### Articles
