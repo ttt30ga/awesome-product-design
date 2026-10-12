@@ -107,6 +107,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [UX Recipe](https://uxrecipe.github.io/) - This project is a personal manifesto against the objectification of the term "UX".
 - [UX Checklist](https://uxchecklist.github.io/) - UX Project Checklist.
 - [UX Stackexchange](https://ux.stackexchange.com/) - UX Stack Exchange is a question and answer site.
+- [The Design Tools](https://thedesigntools.site/) - A curated directory of design tools, including a dedicated Digital Product Design category.
 
 ## UI
 #### Guidelines
