@@ -170,6 +170,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Polarr](https://photoeditor.polarr.co/) - Photo Editor.
 - [Licecap](https://www.cockos.com/licecap/) - Simple animated screen captures.
 - [Hand Brake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [ASCII Images](https://ascii-images.com/image-to-ascii): Convert images to ASCII character art in the browser for documentation and messages, free and without an account.
 
 ## Prototype
 #### Articles
