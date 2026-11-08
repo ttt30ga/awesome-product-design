@@ -202,6 +202,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [WAVE](https://wave.webaim.org/) - Web Accessibility Evaluation Tool.
 - [Contrast Ratio](https://6220119.github.io/contrast-ratio/#/black-on-white) - A tool to calculate the contrast ratio between any two valid CSS colors.
 - [Snook](https://snook.ca/technical/colour_contrast/colour.html#fg=515A5F,bg=FFFFFF) - Colour Contrast Check.
+- [Calculation Hub Luminance & RGB Brightness Calculator](https://calculation-hub.com/colors/luminance-brightness): Free HEX, RGB, and HSL luminance, brightness, and color-pair contrast calculations with formulas; not a full accessibility audit.
 
 ## Writing
 - [Google trends](https://trends.google.com/trends/) - Stories trending now.
