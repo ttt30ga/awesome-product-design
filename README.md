@@ -147,6 +147,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Play Type](https://playtype.com/) - Browse through our selection of more than a hundred fonts and nearly 500 different font weights.
 #### Typography
 - [NN Group](https://www.nngroup.com/articles/typography-terms-ux/) - Typography Terms Cheat Sheet.
+- [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant): Pair script headings with body fonts for lettering layouts.
 #### Colors
 - [Coolors](https://coolors.co/) - The super fast color schemes generator!.
 - [Colour Lovers](https://www.colourlovers.com/) - Creative community.
