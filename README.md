@@ -90,7 +90,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Gamestorming](https://gamestorming.com/) - Gamestorming is a set of co-creation tools used by innovators around the world.
 #### Articles
 - [UX Magazine](https://uxmag.com/) - UX Magazine is a free community resource exploring all facets of experience design.
-- [UX Booth](https://www.uxbooth.com/) - The UX Booth is a publication by and for the user experience community.
 - [UX Mastery](https://uxmastery.com/) - We help user experience professionals get started and get better.
 - [UX Myths](https://uxmyths.com/) - Build your product based on evidence, not false beliefs.
 - [A List Apart](https://alistapart.com/) - List Apart explores the design, development, and meaning of web content.
@@ -123,6 +122,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Lovely UI](https://www.lovelyui.com/) - Collection of mobile UI elements.
 - [Brian Lovin](https://www.brianlovin.com/) - Visual exploration of the best products.
 - [Sloppy UI](https://sloppyui.tumblr.com/) - It's all about intellectual honesty, not trolling.
+- [Swavent Figma to Shopify](https://swavent.com/en/services/figma-to-shopify) - Turn Figma designs into a custom Shopify store.
 #### Tools
 - [Pattern Lab](https://patternlab.io/) - Create atomic design systems with Pattern Lab.
 - [Huge](https://hugeinc.github.io/styleguide/index.html) - Tool to make creating and maintaining styleguides easy.
@@ -136,7 +136,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Awesome Sketch](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
 #### Icons
 - [Icon Finder](https://www.iconfinder.com/) - Search through 1,739,045 icons or browse 42,226 icon sets.
-- [We Love Icon Font](https://weloveiconfonts.com/) - This is a free & open source icon fonts hosting service.
 - [The Noun Project](https://thenounproject.com/) - Icons for everything.
 - [Iconmonstr](https://iconmonstr.com/) - Discover 3847+ free simple icons in 263 collections.
 #### Font Foundries
@@ -159,7 +158,6 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [StockSnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 - [Pixbay](https://pixabay.com/) - Free images and videos you can use anywhere.
 - [Jay Mantry](https://jaymantri.com/) - Free pics (CC0).
-- [Get Refe](https://getrefe.tumblr.com/) - Royalty-free, high-quality, Real Life photos.
 - [ISO Republic](https://isorepublic.com/) - ISO Republic provides free stock photos for creative professionals.
 - [All The Free Stock](https://allthefreestock.com/) - Get all the Free Stock Images, Videos, Music and Icons in one location.
 - [Pexels](https://www.pexels.com) - Free stock images in a range of styles including filtered, natural, and commercial.
